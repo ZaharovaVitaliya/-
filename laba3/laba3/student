@@ -1,0 +1,8 @@
+ArrayList Students, res;
+        public Form1()
+        {
+            InitializeComponent();
+
+            Students = new ArrayList();
+            res = new ArrayList();
+        }
